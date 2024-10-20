@@ -124,10 +124,3 @@ As this project does not include automated unit tests, we encourage manual testi
 - CORS is not enabled by default. If you're running a separate frontend, you may need to enable CORS in the Express application.
 - The application uses Chart.js for creating visualizations. Ensure you have a stable internet connection to load the Chart.js library from CDN.
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
