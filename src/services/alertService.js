@@ -19,7 +19,7 @@ const transporter = nodemailer.createTransport({
     }
     return alerts;
   }
-  
+  //handle alerts
   async function handleAlerts(alerts) {
     alerts.forEach(alert => {
       console.log('ALERT:', alert);
